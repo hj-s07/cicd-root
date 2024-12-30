@@ -1,0 +1,7 @@
+2024-12-24_01:12:45.74707 LOG:  starting PostgreSQL 14.11 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, 64-bit
+2024-12-24_01:12:45.77397 LOG:  listening on Unix socket "/var/opt/gitlab/postgresql/.s.PGSQL.5432"
+2024-12-24_01:12:45.86333 LOG:  database system was interrupted; last known up at 2024-12-23 06:26:09 GMT
+2024-12-24_01:12:58.20094 LOG:  database system was not properly shut down; automatic recovery in progress
+2024-12-24_01:12:58.20934 LOG:  invalid record length at 0/6710090: wanted 24, got 0
+2024-12-24_01:12:58.20937 LOG:  redo is not required
+2024-12-24_01:12:58.23525 LOG:  database system is ready to accept connections

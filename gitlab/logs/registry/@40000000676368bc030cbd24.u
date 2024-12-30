@@ -1,0 +1,4 @@
+2024-12-18_08:41:28.15924 time="2024-12-18T08:41:28.154Z" level=info msg="storage backend redirection enabled" environment=production go_version=go1.21.9 instance_id=63acee41-8389-41b6-9e58-35628ed2b691 service=registry version=v4.0.0-gitlab
+2024-12-18_08:41:28.15936 time="2024-12-18T08:41:28.159Z" level=info msg="using inmemory blob descriptor cache" environment=production go_version=go1.21.9 instance_id=63acee41-8389-41b6-9e58-35628ed2b691 service=registry version=v4.0.0-gitlab
+2024-12-18_08:41:28.16073 time="2024-12-18T08:41:28.155Z" level=info msg="Starting upload purge in 52m0s" environment=production go_version=go1.21.9 instance_id=63acee41-8389-41b6-9e58-35628ed2b691 service=registry version=v4.0.0-gitlab
+2024-12-18_08:41:28.16376 time="2024-12-18T08:41:28.163Z" level=info msg="listening on 127.0.0.1:5000" environment=production go_version=go1.21.9 instance_id=63acee41-8389-41b6-9e58-35628ed2b691 service=registry version=v4.0.0-gitlab
